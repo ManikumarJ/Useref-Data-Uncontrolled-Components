@@ -1,10 +1,10 @@
 import React from 'react'
-import Counter from './components/Counter'
+import Approutes from './routers/Approutes'
 
 const App = () => {
   return (
     <>
-      <Counter/>
+      <Approutes/>
     </>
   )
 }
